@@ -16,7 +16,7 @@
   * If your compiler is in a non-standard location, you can use `-DCMAKE_CXX_COMPILER=</path/to/compiler>`.
   * Change `Debug` into `Release` if you want to compile in release mode.
 * Run make: `make`.
-* Run the executable: `./cplex_example`.
+* Run the executable: `./cplex_implementation`.
 
 ## Structure
 
