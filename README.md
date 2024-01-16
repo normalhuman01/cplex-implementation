@@ -7,8 +7,8 @@
 
 ## Compile and run
 
-* Get the code: `git clone https://github.com/alberto-santini/cplex-example.git`.
-* Move to the new directory: `cd cplex-example`.
+* Get the code: `git clone https://github.com/normalhuman01/cplex-implementation.git`.
+* Move to the new directory: `cd cplex-implementation`.
 * Create a build directory: `mkdir build`.
 * Move to the build directory: `cd build`.
 * Run cmake: `cmake -DCPLEX_ROOT_DIR=</path/to/ilog> -DCMAKE_BUILD_TYPE=Debug ..`.
